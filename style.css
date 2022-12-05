@@ -34,7 +34,7 @@ h2 {
 
 .box,
 .box-left,
-.box-rigth {
+.box-right {
     /* background: #f4f4f4; */
     display: block;
     box-sizing: border-box;
@@ -46,14 +46,14 @@ h2 {
     width: 40%;
 }
 
-.box-rigth {
+.box-right {
     width: 60%;
     vertical-align: top;
 }
 @media (max-width: 766px) {
 
     .box-left,
-    .box-rigth {
+    .box-right {
         text-align: center;
         display: block;
         width: 100%;
