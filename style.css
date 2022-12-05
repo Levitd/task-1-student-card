@@ -60,14 +60,6 @@ h2 {
     }
 }
 
-@media (max-width: 766px) {
-
-    .col-1,
-    .col-2 {
-        width: 100%;
-    }
-}
-
 .card {
     border-left: 6px solid red;
     background: lightsalmon;
